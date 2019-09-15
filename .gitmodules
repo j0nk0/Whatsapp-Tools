@@ -1,0 +1,18 @@
+[submodule "whatsapp-viewer"]
+	path = whatsapp-viewer
+	url = https://github.com/andreas-mausch/whatsapp-viewer
+[submodule "whatsapp_decrypt"]
+	path = whatsapp_decrypt
+	url = https://github.com/ivancduran/whatsapp_decrypt
+[submodule "whatsapp_analysis_bash"]
+	path = whatsapp_analysis_bash
+	url = https://github.com/alialghamdi/whatsapp_analysis_bash
+[submodule "whatshack"]
+	path = whatshack
+	url = https://github.com/thelinuxchoice/whatshack
+[submodule "RemoteWA"]
+	path = RemoteWA
+	url = https://github.com/abazad/RemoteWA
+[submodule "WhatsappKey"]
+	path = WhatsappKey
+	url = https://github.com/toespar/WhatsappKey
