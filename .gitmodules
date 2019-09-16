@@ -16,3 +16,6 @@
 [submodule "WhatsappKey"]
 	path = WhatsappKey
 	url = https://github.com/toespar/WhatsappKey
+[submodule "whapa"]
+	path = whapa
+	url = https://github.com/B16f00t/whapa
