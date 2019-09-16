@@ -19,3 +19,6 @@
 [submodule "whapa"]
 	path = whapa
 	url = https://github.com/B16f00t/whapa
+[submodule "WhatsDump"]
+	path = WhatsDump
+	url = https://github.com/MarcoG3/WhatsDump

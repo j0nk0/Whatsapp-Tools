@@ -2,6 +2,9 @@
 Different tools for whatsapp. E.g decrypting messages
 
 
+#Extract WhatsApp private key from any non-rooted Android device (Android 7+ supported) https://plainsec.org
+    https://github.com/MarcoG3/WhatsDump
+
 #Whapa is a forensic graphical toolset for analyzing whatsapp in android. All the tools have been written in Python 3.X and have been tested on linux and windows 10 systems.
     https://github.com/B16f00t/whapa
 
