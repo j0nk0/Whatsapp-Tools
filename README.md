@@ -1,6 +1,8 @@
 #==# Whatsapp-Tools #==#
 Different tools for whatsapp. E.g decrypting messages
 
+#Whatsapp dissector plugin for wireshark
+    https://github.com/davidgfnet/wireshark-whatsapp
 
 #Extract WhatsApp private key from any non-rooted Android device (Android 7+ supported) https://plainsec.org
     https://github.com/MarcoG3/WhatsDump
@@ -26,7 +28,9 @@ Different tools for whatsapp. E.g decrypting messages
 #WhatsappKey is a bash script just to get the Whatsapp password from 'pw' and 'me' files.
     https://github.com/toespar/WhatsappKey
 
-
+#===================# Misc #===================#
+#A collection of android security related resources
+    https://github.com/ashishb/android-security-awesome
 #===================# Other Useful Links #===================#
     TripCode for crypt12 support https://github.com/EliteAndroidApps/WhatsApp-Crypt12-Decrypter
     Whatsapp Xtract

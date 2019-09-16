@@ -22,3 +22,9 @@
 [submodule "WhatsDump"]
 	path = WhatsDump
 	url = https://github.com/MarcoG3/WhatsDump
+[submodule "wireshark-whatsapp"]
+	path = wireshark-whatsapp
+	url = https://github.com/davidgfnet/wireshark-whatsapp
+[submodule "android-security-awesome"]
+	path = android-security-awesome
+	url = https://github.com/ashishb/android-security-awesome
